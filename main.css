@@ -1,11 +1,17 @@
 #encabezado {
-
-    width: auto;
-    padding: 50px;
+    width: auto ;
+    height: auto ;
 }
 
-#logotipo{
-
+#logotipo{ 
     height: 50px;
-    width: 50px;
+    
+}
+
+.barra_busqueda{
+    
+}
+
+.botones_encabezado{
+    
 }
